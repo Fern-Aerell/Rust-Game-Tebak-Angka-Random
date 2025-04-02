@@ -1,3 +1,3 @@
-# Rust - Game Tebak Angka Random
+# Rust - Random Number Guessing Game
 
-Ini adalah repository game tebak angka random yang dibuat dengan bahasa pemrograman rust.
+This is a repository for a random number guessing game built with the Rust programming language.
